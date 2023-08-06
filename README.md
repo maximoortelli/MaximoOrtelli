@@ -1,4 +1,4 @@
-<a href = "maximoortelli@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<img src="presentation.jpg"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
