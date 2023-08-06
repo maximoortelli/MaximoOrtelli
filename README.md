@@ -1,20 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maximo Ortelli</h1>
-<h3 align="center">I'm a Software Developer💻📲.</h3>
-
-
-- 🔭 I’m currently working on [Reactive Portfolio](https://maximoortelli.github.io/Portfolio-reactivo/)
-
-- 🌱 I’m currently learning **JavaScript and Phyton.**
-
-- 👯 I’m looking to collaborate on **new projects**
-
-- 👨‍💻 All of my projects are available at [https://maximoortelli.github.io/Portfolio-reactivo/](https://maximoortelli.github.io/Portfolio-reactivo/)
-
-- 💬 Ask me about **Html, CSS, JavaScript and Phyton.**
-
-- 📫 How to reach me **maximoortelli@hotmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/maximo-ortelli-rueda-265228203/](https://www.linkedin.com/in/maximo-ortelli-rueda-265228203/)
+<a href = "maximoortelli@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
