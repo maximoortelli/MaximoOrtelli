@@ -1,4 +1,4 @@
-<img src="presentation.jpg"></a>
+<img src="  Presentation.jpg"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
