@@ -1,4 +1,4 @@
-<img src="Presentation.jpg" width="100%"></a>
+<img src="Presentation.jpg" href="https://maximoortelli.github.io/Portfolio-setup-and-mobile--first/" width="100%"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
