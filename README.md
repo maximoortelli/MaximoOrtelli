@@ -14,5 +14,5 @@
 
 <h3 align="left">Contact me by email:</h3>
 
-<p>maximoortelli@hotmail.com</p>
+<p>Maximoortelli@hotmail.com</p>
 
