@@ -12,5 +12,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maximoortelli&" alt="maximoortelli" /></p>
 
-<a href = "maximoortelli@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maximo-ortelli-rueda-265228203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<h3 align="left">Contact me by email:</h3>
+
+<p>maximoortelli@hotmail.com</p>
+
