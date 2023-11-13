@@ -4,8 +4,8 @@
 
 # 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximo-ortelli-rueda/) [![Email](https://img.shields.io/badge/Email-blue)(mailto:maximoortelli@hotmail.com)]
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-green)(https://wa.me/5492235809709)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximo-ortelli-rueda/) [![Email](https://img.shields.io/badge/Email-blue)](mailto:maximoortelli@hotmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-green)](https://wa.me/5492235809709)
 
 </div>
 
