@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🌐 Socials 🌐
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=1000&lines=%F0%9F%8C%90+Socials+%F0%9F%8C%90" alt="Typing SVG" /></a>
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximo-ortelli-rueda/) [![Email](https://img.shields.io/badge/Email-blue)](mailto:maximoortelli@hotmail.com)
@@ -19,7 +19,7 @@
 
 <div align="center">
 
-  # 🏆🥇My Trophies🥇🏆
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=1000&lines=%F0%9F%8F%86%F0%9F%A5%87My+Trophies%F0%9F%A5%87%F0%9F%8F%86" alt="Typing SVG" /></a>
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=maximoortelli&theme=onedark)](https://github.com/maximoortelli/github-profile-trophy)
   
@@ -27,7 +27,7 @@
 
 <div align="center">
 
-  # 📊 GitHub Stats 📊
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=1000&lines=%F0%9F%93%8A+GitHub+Stats+%F0%9F%93%8A" alt="Typing SVG" /></a>
 
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maximoortelli&show_icons=true&locale=en&layout=compact&theme=dark" alt="maximoortelli" /></p>
 
