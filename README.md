@@ -26,11 +26,11 @@
 
 <div align="center">
 
-# 📊 GitHub Stats:
+  # 📊 GitHub Stats:
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maximoortelli&show_icons=true&locale=en&layout=compact" alt="maximoortelli" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maximoortelli&show_icons=true&locale=en&layout=compact&theme=dark" alt="maximoortelli" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maximoortelli&show_icons=true&locale=en" alt="maximoortelli" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maximoortelli&show_icons=true&locale=en&theme=dark" alt="maximoortelli" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maximoortelli&" alt="maximoortelli" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maximoortelli&theme=dark" alt="maximoortelli" /></p>
 </div>
