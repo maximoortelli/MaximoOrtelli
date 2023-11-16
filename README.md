@@ -17,6 +17,11 @@
 </div>
 
 <div align="center">
+  # 🏆🥇 My Trophies:
+  [![trophy](https://github-profile-trophy.vercel.app/?username=maximoortelli&theme=onedark)](https://github.com/maximoortelli/github-profile-trophy")
+</div>
+
+<div align="center">
 
 # 📊 GitHub Stats:
 
