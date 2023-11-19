@@ -19,7 +19,7 @@
 
 <div align="center">
 
-  <h1>🏆🥇 My Trophies 🥇🏆</h1>
+  <h1 style="font-family: 'Roboto', sans-serif;">🏆🥇 MY TROPHIES 🥇🏆</h1>
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=maximoortelli&theme=onedark)](https://github.com/maximoortelli/github-profile-trophy)
   
@@ -27,7 +27,7 @@
 
 <div align="center">
 
- <h1>📊✅ GitHub Stats 📊✅</h1>
+ <h1 style="font-family: 'Roboto', sans-serif;">📊✅ GITHUB STATS 📊✅</h1>
 
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maximoortelli&show_icons=true&locale=en&layout=compact&theme=dark" alt="maximoortelli" /></p>
 
