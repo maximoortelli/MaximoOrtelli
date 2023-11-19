@@ -18,7 +18,7 @@
 
 <div align="center">
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&pause=10000&color=F7F7F7&center=true&vCenter=true&random=false&width=1000&lines=%F0%9F%8F%86%F0%9F%A5%87My+Trophies%F0%9F%A5%87%F0%9F%8F%86" alt="Typing SVG" /></a>
+  <h1>🏆🥇 My Trophies 🥇🏆</h1>
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=maximoortelli&theme=onedark)](https://github.com/maximoortelli/github-profile-trophy)
   
