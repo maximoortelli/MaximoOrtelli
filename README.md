@@ -26,7 +26,7 @@
 
 <div align="center">
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&pause=10000&color=F7F7F7&center=true&vCenter=true&random=false&width=1000&lines=%F0%9F%93%8A+GitHub+Stats+%F0%9F%93%8A" alt="Typing SVG" /></a>
+ <h1>📊✅ GitHub Stats 📊✅</h1>
 
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maximoortelli&show_icons=true&locale=en&layout=compact&theme=dark" alt="maximoortelli" /></p>
 
