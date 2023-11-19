@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&pause=10000&color=F7F7F7&center=true&vCenter=true&random=false&width=1000&lines=%F0%9F%8C%90+Socials+%F0%9F%8C%90" alt="Typing SVG" /></a>
+# 🌐 SOCIALS 🌐
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximo-ortelli-rueda/) [![Email](https://img.shields.io/badge/Email-blue)](mailto:maximoortelli@hotmail.com)
