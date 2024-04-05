@@ -3,7 +3,7 @@
 <a href = "https://professional-portfolio-maximo-ortelli.netlify.app"><img src="Presentation.png" width="100%"></a>
 
 <h1 align="center" style="font-family: 'Roboto', sans-serif;"> 💼⬇ CLICK HERE TO SEE MY CV ⬇💼</h1>
-<a href = "https://1drv.ms/w/s!AjZA4iH01A5qgYwJsBPYw7aImMw1xg?e=B4Y8aB"><img src="Presentation.png" width="100%"></a>
+<a href = "https://1drv.ms/w/s!AjZA4iH01A5qgYwJsBPYw7aImMw1xg?e=B4Y8aB"><img src="button.png" width="100%"></a>
 
 <div align="center">
 
