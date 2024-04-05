@@ -2,6 +2,9 @@
 <h1 align="center" style="font-family: 'Roboto', sans-serif;"> 💼⬇ CLICK ON THE IMAGE TO SEE MY PORTFOLIO ⬇💼</h1>
 <a href = "https://professional-portfolio-maximo-ortelli.netlify.app"><img src="Presentation.png" width="100%"></a>
 
+<h1 align="center" style="font-family: 'Roboto', sans-serif;"> 💼⬇ CLICK HERE TO SEE MY CV ⬇💼</h1>
+<a href = "https://1drv.ms/w/s!AjZA4iH01A5qgYwJsBPYw7aImMw1xg?e=B4Y8aB"><img src="Presentation.png" width="100%"></a>
+
 <div align="center">
 
 <h1 style="font-family: 'Roboto', sans-serif;">🌐 SOCIALS 🌐</h1>
