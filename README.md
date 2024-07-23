@@ -1,10 +1,3 @@
-<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Manrope:wght@200;300;400;500;600;700;800&family=Mochiy+Pop+One&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500;1,600&family=Poppins:ital,wght@0,100;0,200;0,300;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
-<h1 align="center" style="font-family: 'Roboto', sans-serif;"> 💼⬇ CLICK HERE TO SEE MY PORTFOLIO ⬇💼</h1>
-<a href = "https://professional-portfolio-maximo-ortelli.netlify.app"><img src="Presentation.png" width="100%"></a>
-
-<h1 align="center" style="font-family: 'Roboto', sans-serif;"> ✅⬇ CLICK HERE TO SEE MY CV ⬇✅</h1>
-<a href = "https://1drv.ms/w/s!AjZA4iH01A5qgYwJhz-din4gyZnP1A?e=I5Hy9x"><img src="sec.png" width="100%"></a>
-
 <div align="center">
 
 <h1 style="font-family: 'Roboto', sans-serif;">🌐 SOCIALS 🌐</h1>
@@ -13,6 +6,13 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-green)](https://wa.me/5492235809709)
 
 </div>
+
+<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Manrope:wght@200;300;400;500;600;700;800&family=Mochiy+Pop+One&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500;1,600&family=Poppins:ital,wght@0,100;0,200;0,300;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+<h1 align="center" style="font-family: 'Roboto', sans-serif;"> 💼⬇ CLICK HERE TO SEE MY PORTFOLIO ⬇💼</h1>
+<a href = "https://professional-portfolio-maximo-ortelli.netlify.app"><img src="Presentation.png" width="100%"></a>
+
+<h1 align="center" style="font-family: 'Roboto', sans-serif;"> ✅⬇ CLICK HERE TO SEE MY CV ⬇✅</h1>
+<a href = "https://1drv.ms/w/s!AjZA4iH01A5qgYwJhz-din4gyZnP1A?e=I5Hy9x"><img src="sec.png" width="100%"></a>
 
 <div align="center">
 
